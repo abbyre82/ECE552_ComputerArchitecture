@@ -1,0 +1,8 @@
+INST:    1100 0001 1111 1111 lbi r1, 0xff
+ARCH:    REG: 1 VALUE: 0xffff  
+VERILOG: REG: 1 VALUE: 0xffff
+INST:    0000 1000 0000 0000 NOP
+ARCH:      
+VERILOG: 
+INST:    0000 0000 0000 0000 halt
+SUCCESS: No differences

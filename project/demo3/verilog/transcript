@@ -1,0 +1,86 @@
+# vsim -c proc_hier_pbench -lib __work 
+# Start time: 18:15:02 on May 04,2020
+# //  ModelSim DE 10.7c Aug 17 2018Linux 4.15.0-99-generic
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim DE and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading __work.proc_hier_pbench
+# Loading __work.proc_hier
+# Loading __work.clkrst
+# Loading __work.proc
+# Loading __work.register_16b
+# Loading __work.dffe
+# Loading __work.dff
+# Loading __work.fetch
+# Loading __work.mem_system_hier
+# Loading __work.mem_system
+# Loading __work.cache
+# Loading __work.memc
+# Loading __work.memv
+# Loading __work.four_bank_mem
+# Loading __work.final_memory
+# Loading __work.cacheFSM
+# Loading __work.register
+# Loading __work.replacement_logic
+# Loading __work.cla_16b
+# Loading __work.cla_4b
+# Loading __work.carryLogic
+# Loading __work.nand2
+# Loading __work.not1
+# Loading __work.nor2
+# Loading __work.fullAdder_1b
+# Loading __work.nand3
+# Loading __work.xor3
+# Loading __work.compute_C_in
+# Loading __work.IF_ID
+# Loading __work.register_16b_NOP
+# Loading __work.hazard_detection_unit
+# Loading __work.num_regReads
+# Loading __work.fwd_unit
+# Loading __work.decode
+# Loading __work.control_unit
+# Loading __work.instruction_format
+# Loading __work.instruction_decode
+# Loading __work.extension_unit
+# Loading __work.regFile_bypass
+# Loading __work.regFile
+# Loading __work.branch_jump
+# Loading __work.branch_ALU
+# Loading __work.ID_EX
+# Loading __work.register_1b
+# Loading __work.register_4b
+# Loading __work.register_3b
+# Loading __work.execute
+# Loading __work.alu_Execute
+# Loading __work.shifter
+# Loading __work.shiftLeft
+# Loading __work.shiftRight_Logical
+# Loading __work.shiftRight_Arithmetic
+# Loading __work.rotateLeft
+# Loading __work.rotateRight
+# Loading __work.btr
+# Loading __work.sco
+# Loading __work.seq
+# Loading __work.slbi
+# Loading __work.EX_MEM
+# Loading __work.memory
+# Loading __work.MEM_WB
+# Loading __work.wb
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'id_ex'.  Expected 38, found 37.
+#    Time: 0 ns  Iteration: 0  Instance: /proc_hier_pbench/DUT/p0/id_ex File: proc.v Line: 186
+run -all
+# Hello world...simulation starting
+# See verilogsim.log and verilogsim.ptrace for output
+# ** Note: $finish    : proc_hier_pbench.v(115)
+#    Time: 1805 ns  Iteration: 0  Instance: /proc_hier_pbench
+# End time: 18:15:02 on May 04,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1

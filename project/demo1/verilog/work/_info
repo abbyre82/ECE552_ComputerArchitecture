@@ -1,0 +1,845 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ProgramData/App-V/2191B702-5279-4048-91BA-BCF8F2A20B49/3C5B5D32-C303-48A2-8738-F357EDE80167/Root/examples
+valu
+!s110 1583818026
+!i10b 1
+!s100 Ne7cVMdXO6^]600dML9Af2
+IF`z53Dk6jSd^cH8Ic^5361
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog
+Z2 w1583623851
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/alu.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/alu.v
+Z3 L0 12
+Z4 OE;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1583818026.079000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/alu.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu_Execute
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZE0a3Zl0TTEaZM1JB6LHZ3
+ITc5o5dOAT6WZKm:1EiO=n0
+R1
+w1583830173
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/alu_Execute.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/alu_Execute.v
+L0 17
+R4
+!s108 1583830178.467000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/alu_Execute.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/alu_Execute.v|
+!i113 0
+R5
+nalu_@execute
+vbranch_ALU
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 MJ<oTbSe1bIFK6;Q5RD]E2
+Ioi=VlUazUGfaEc?@CN?7P1
+R1
+Z6 w1583816289
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/branch_ALU.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/branch_ALU.v
+L0 3
+R4
+!s108 1583818027.040000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/branch_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/branch_ALU.v|
+!i113 0
+R5
+nbranch_@a@l@u
+vbranch_jump
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 N];Q3iki6BGzgOOIAebPF3
+IAIM>E1iS]=m:VYGo7z`Ha1
+R1
+R6
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/branch_jump.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/branch_jump.v
+L0 1
+R4
+!s108 1583818027.462000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/branch_jump.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/branch_jump.v|
+!i113 0
+R5
+vbtr
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 J>iAlJ?h`>cEW4anX2BkI2
+I57e_bRBVa50@9nd1VP[S32
+R1
+R6
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/btr.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/btr.v
+L0 1
+R4
+!s108 1583818027.902000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/btr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/btr.v|
+!i113 0
+R5
+vcarryLogic
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 YROZT:PK80<Va_oS3HWiT2
+I2Zk>5agIoQDgPGHzCJndm0
+R1
+w1582076186
+8I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\carryLogic.v
+FI:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\carryLogic.v
+L0 1
+R4
+!s108 1583829790.736000
+!s107 I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\carryLogic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\carryLogic.v|
+!i113 0
+R5
+ncarry@logic
+vcla_16b
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 DJ=A8Eg@WXhhfk6lTdJ3]2
+IHRVJdWgo[ed[F;6k=W:?<3
+R1
+w1583817810
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/cla_16b.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/cla_16b.v
+L0 7
+R4
+!s108 1583818028.725000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/cla_16b.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/cla_16b.v|
+!i113 0
+R5
+vcla_4b
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 9hROdzQ1B?kE^E053jkIk2
+IHgZ2nfYjGB4T?QOc8Z1fL2
+R1
+w1582097612
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/cla_4b.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/cla_4b.v
+L0 7
+R4
+!s108 1583818028.321000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/cla_4b.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/cla_4b.v|
+!i113 0
+R5
+vclkrst
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 No[XWID:QhgHKS8<I68UH0
+I8h<CM0Y<L8[30bMoDD_]R2
+R1
+R2
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/clkrst.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/clkrst.v
+R3
+R4
+!s108 1583818029.145000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/clkrst.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/clkrst.v|
+!i113 0
+R5
+vcompute_C_in
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 X8S9c^DFD0njV9?bV?Oe^1
+IMWaabKJT:gVT3gY@cC6A[0
+R1
+w1582076187
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/compute_C_in.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/compute_C_in.v
+L0 1
+R4
+!s108 1583818029.550000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/compute_C_in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/compute_C_in.v|
+!i113 0
+R5
+ncompute_@c_in
+vcontrol_unit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 lHo;MTES4?blA<:<ZoCo12
+IDY69gUm4k8XoEPP<LzBHS1
+R1
+w1583823302
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/control_unit.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/control_unit.v
+L0 1
+R4
+!s108 1583823305.433000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/control_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/control_unit.v|
+!i113 0
+R5
+vdecode
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 `h5@[i6c1bT[JUBz]3e[81
+IYP;4z9:OKMe]GaMfk0chT0
+R1
+w1583830741
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/decode.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/decode.v
+L0 7
+R4
+!s108 1583830911.722000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/decode.v|
+!i113 0
+R5
+vdff
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 :P9B=6RNJiggGnSQ@zSPl0
+INVek`@`=nn74C>9lnbSJ43
+R1
+R2
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/dff.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/dff.v
+L0 6
+R4
+!s108 1583818030.828000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/dff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/dff.v|
+!i113 0
+R5
+vexecute
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 N3o2llW@HTRN9A]a2c_G83
+IO`]Zd=^>ngD:^5iHLmQWZ2
+R1
+w1583831021
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/execute.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/execute.v
+L0 23
+R4
+!s108 1583831177.306000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/execute.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/execute.v|
+!i113 0
+R5
+vextension_unit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 RMKb47N?V4S<9EEEBG4lK2
+ILn19=Em6K:7`2CKb1i7790
+R1
+w1583820680
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/extension_unit.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/extension_unit.v
+L0 1
+R4
+!s108 1583820685.111000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/extension_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/extension_unit.v|
+!i113 0
+R5
+vfetch
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 DVPQeGDzmPHd7DP]5[YbH1
+IP`z;X[R5DB1Fg;0cV?cL>0
+R1
+w1583829395
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/fetch.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/fetch.v
+L0 7
+R4
+!s108 1583829402.396000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/fetch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/fetch.v|
+!i113 0
+R5
+vfullAdder_1b
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 JH?CSVh5@YX<HG1Z1:Y^c2
+I`f5SE@Loc9dSzPU_7g3Q_3
+R1
+w1583829783
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/fullAdder_1b.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/fullAdder_1b.v
+L0 7
+R4
+!s108 1583829790.327000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/fullAdder_1b.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/fullAdder_1b.v|
+!i113 0
+R5
+nfull@adder_1b
+vinstruction_decode
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZR;IMjX=cR9_5?O7eP6?81
+IPg0<;eMnD4L7Hc?UDgVKe1
+R1
+R6
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/instruction_decode.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/instruction_decode.v
+L0 1
+R4
+!s108 1583818032.314000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/instruction_decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/instruction_decode.v|
+!i113 0
+R5
+vmemory
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 h3<mH3DnFfea`bNDW9Q2Y0
+IkgH=g3Pj4N?R;RiAOcfGR3
+R1
+w1583831382
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/memory.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/memory.v
+L0 8
+R4
+!s108 1583831387.222000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/memory.v|
+!i113 0
+R5
+vmemory2c
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 7WJF>Vi1V3[_g;VfWWZFo3
+I>hjc`n08iZAU=cdA_>AQK2
+R1
+R2
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/memory2c.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/memory2c.v
+L0 35
+R4
+!s108 1583818033.552000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/memory2c.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/memory2c.v|
+!i113 0
+R5
+vmux2_1
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 HPJT_]O9Nh<QO0UIbRm0m2
+ITO[GhBn^XhfXS^X]AH5P32
+R1
+w1581654860
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/mux2_1.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/mux2_1.v
+L0 7
+R4
+!s108 1583829950.602000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/mux2_1.v|
+!i113 0
+R5
+vmux4_1
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 XRTEUz>RoHWO52eQ]a=U=2
+IfiOgdS?7WnA>DOHTQbbj[3
+R1
+w1581655123
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/mux4_1.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/mux4_1.v
+L0 7
+R4
+!s108 1583818033.959000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/mux4_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/mux4_1.v|
+!i113 0
+R5
+vnand2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 @JLnM_lV[dSoG<b5oFSbC0
+Ik`OzY`<UTzNl5a;<ofac=2
+R1
+R2
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nand2.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nand2.v
+L0 7
+R4
+!s108 1583821624.268000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nand2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nand2.v|
+!i113 0
+R5
+vnand3
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 74U72gSXNGQC9QQ_6Vl@m3
+I>BWBX1BOi>DZ6m6GcX`Za0
+R1
+Z7 w1581648684
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nand3.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nand3.v
+L0 7
+R4
+!s108 1583829864.628000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nand3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nand3.v|
+!i113 0
+R5
+vnor2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 zLY;3kAfYGCBXK2?=fzNd1
+IPX6CHJbWoPDSiVUPbRnLD2
+R1
+R2
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nor2.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nor2.v
+L0 7
+R4
+!s108 1583821624.698000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nor2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/nor2.v|
+!i113 0
+R5
+vnot1
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 E;?=8[YGePDM35<9b7^jF3
+IL78Q843TTXT5f0lmhBgcg3
+R1
+R2
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/not1.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/not1.v
+L0 7
+R4
+!s108 1583821625.108000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/not1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/not1.v|
+!i113 0
+R5
+vproc
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 1L<n>mhmQHihSjd6U?Z@:3
+IHBWFBFmDl^WBS4`bK;mB30
+R1
+w1583831258
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc.v
+L0 4
+R4
+!s108 1583831387.836000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc.v|
+!i113 0
+R5
+vproc_hier
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 =I`13V[kAYPY]19f0imSo2
+IZo?a<e@FMAD2FJ?:40BA^2
+R1
+R2
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc_hier.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc_hier.v
+L0 6
+R4
+!s108 1583818034.772000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc_hier.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc_hier.v|
+!i113 0
+R5
+vproc_hier_bench
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 d=@FJEg^66`Z1SoejkW2K3
+IRPBhkGVkU34H]121zm[Z]0
+R1
+w1583831458
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc_hier_bench.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc_hier_bench.v
+L0 4
+R4
+!s108 1583831470.611000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc_hier_bench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/proc_hier_bench.v|
+!i113 0
+R5
+vregFile
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 AjOAAhzK2SCb0;RVXT:7L0
+IG?gGSYGj1acVl>Cd0Hj8G0
+R1
+w1583825173
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/regFile.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/regFile.v
+Z8 L0 10
+R4
+!s108 1583825243.497000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/regFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/regFile.v|
+!i113 0
+R5
+nreg@file
+vregFile_bypass
+!s110 1583825292
+!i10b 1
+!s100 HJmiFeCHO^VX9Y2008fY<2
+ISGmgbGizWZ1:bn:]Ij<eG3
+R0
+R1
+w1583825288
+8I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\regFile_bypass.v
+FI:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\regFile_bypass.v
+L0 8
+R4
+r1
+!s85 0
+31
+!s108 1583825292.093000
+!s107 I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\regFile_bypass.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\regFile_bypass.v|
+!i113 0
+R5
+nreg@file_bypass
+vregister
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 D@Z=g?L=IaaN<VbC0ZOJZ0
+I<;^K0Q=^Agdg6ao@gUh300
+R1
+w1583825238
+8I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\register.v
+FI:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\register.v
+L0 2
+R4
+!s108 1583825243.947000
+!s107 I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\register.v|
+!i113 0
+R5
+vrotateLeft
+!s110 1583818036
+!i10b 1
+!s100 k=<Uo8zHnln?hgN?`Wh7L0
+IR5^eTBWT7z@18hPRaAjlV0
+R0
+R1
+w1582074975
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/rotateLeft.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/rotateLeft.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583818036.544000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/rotateLeft.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/rotateLeft.v|
+!i113 0
+R5
+nrotate@left
+vrotateRight
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 RC:zW7l>X?@B6KHH`Ua5L3
+IY2_eZ5f6cIF7lUD7AgU490
+R1
+R6
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/rotateRight.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/rotateRight.v
+L0 1
+R4
+!s108 1583818036.986000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/rotateRight.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/rotateRight.v|
+!i113 0
+R5
+nrotate@right
+vsco
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 >RGjOEl:G`_dhJJ1ddYil1
+IP=boOhOF]K]R;CR^Hh@1c3
+R1
+R6
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/sco.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/sco.v
+L0 1
+R4
+!s108 1583818037.593000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/sco.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/sco.v|
+!i113 0
+R5
+vseq
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 UmN[NInni77=?30VJXBJ;2
+IaWJedVBIcJlWUMc;8bf]R1
+R1
+R6
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/seq.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/seq.v
+L0 1
+R4
+!s108 1583818038.004000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/seq.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/seq.v|
+!i113 0
+R5
+vshifter
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 efYNB9KMIFXUb8DOmQ_b=1
+IP?]J;OS69VJ5NSCW?;IR>1
+R1
+w1582814581
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shifter.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shifter.v
+R8
+R4
+!s108 1583818038.412000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shifter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shifter.v|
+!i113 0
+R5
+vshiftLeft
+Z9 !s110 1583818039
+!i10b 1
+!s100 >a<cOGPdId;O9aHSS<1=c2
+IXZnR96O_dXZII`=zm6gh_1
+R0
+R1
+w1582075038
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shiftLeft.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shiftLeft.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583818038.921000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shiftLeft.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shiftLeft.v|
+!i113 0
+R5
+nshift@left
+vshiftRight_Arithmetic
+R9
+!i10b 1
+!s100 6PR6BK5=AU8^=k?dj0UTa3
+I=AL4`eXN@MJT4YDAZI@[53
+R0
+R1
+w1582075021
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shiftRight_Arithmetic.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shiftRight_Arithmetic.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583818039.344000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shiftRight_Arithmetic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/shiftRight_Arithmetic.v|
+!i113 0
+R5
+nshift@right_@arithmetic
+vshiftRight_Logical
+!s110 1583818040
+!i10b 1
+!s100 FF_4`>TXmgW31d^SP=9MD1
+Io31`:bR46WSLfNBb;iJ:h2
+R0
+R1
+w1582075235
+8I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\shiftRight_Logical.v
+FI:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\shiftRight_Logical.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583818039.826000
+!s107 I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\shiftRight_Logical.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:\ECE552\project-the-shabbat-shaloms\project\demo1\verilog\shiftRight_Logical.v|
+!i113 0
+R5
+nshift@right_@logical
+vslbi
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]aW7oJEfVo2OU<C<EQ_2W1
+I5zWz>`YRV?:C3<5eM7X>[2
+R1
+R6
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/slbi.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/slbi.v
+L0 1
+R4
+!s108 1583818040.305000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/slbi.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/slbi.v|
+!i113 0
+R5
+vwb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 >8J]g;16=jCi40:QbJU763
+IP:Sic1c<=iIao_QXjFHJG1
+R1
+w1583830907
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/wb.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/wb.v
+L0 7
+R4
+!s108 1583830913.408000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/wb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/wb.v|
+!i113 0
+R5
+vxor3
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 `n11P3H6:oWD]59JZPJ[m2
+I1T3AWNYRMn^b6CJzLXk=]3
+R1
+R7
+8I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/xor3.v
+FI:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/xor3.v
+L0 7
+R4
+!s108 1583829863.906000
+!s107 I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/xor3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/project-the-shabbat-shaloms/project/demo1/verilog/xor3.v|
+!i113 0
+R5

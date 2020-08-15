@@ -1,0 +1,13 @@
+          // Authors:
+          // 	Abby Rechkin
+          //	Alex Yavnilovitch
+          //
+          // Simple test MEM->MEM forwarding
+          
+0000 c210 lbi r2 16	// r2 = 16
+0002 c30a lbi r3, 10	// r3 = 10
+0004 c407 lbi r4, 7	// r4 = 7
+0006 8380 st r4, r3, 0	// MEM[10] <- 7
+0008 8b20 ld r1, r3, 0	// r1 = MEM[10]
+000a 8220 st r1, r2, 0	// MEM[16] <- 7
+000c 0000 halt

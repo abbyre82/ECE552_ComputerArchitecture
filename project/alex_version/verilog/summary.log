@@ -1,0 +1,4 @@
+/u/y/a/yavnilovitch/private/ECE552/project-the-shabbat-shaloms/project/demo3/verification/mytests/p1-1.asm SUCCESS CPI:5.2 CYCLES:26 ICOUNT:5 IHITRATE: 0 DHITRATE: 0
+/u/y/a/yavnilovitch/private/ECE552/project-the-shabbat-shaloms/project/demo3/verification/mytests/p1-2.asm SUCCESS CPI:5.6 CYCLES:39 ICOUNT:7 IHITRATE: 0 DHITRATE: 0
+/u/y/a/yavnilovitch/private/ECE552/project-the-shabbat-shaloms/project/demo3/verification/mytests/p1-3.asm SUCCESS CPI:6.6 CYCLES:46 ICOUNT:7 IHITRATE: 0 DHITRATE: 0
+/u/y/a/yavnilovitch/private/ECE552/project-the-shabbat-shaloms/project/demo3/verification/mytests/test_NOP.asm SUCCESS CPI:9.5 CYCLES:19 ICOUNT:2 IHITRATE: 0 DHITRATE: 0

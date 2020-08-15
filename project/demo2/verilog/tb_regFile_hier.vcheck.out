@@ -1,0 +1,11 @@
+Line 22: Bad keyword integer
+Line 50: Bad keyword initial
+Line 51: begin without always/case
+Line 67: Bad keyword posedge
+Line 88: Bad keyword if
+Line 101: Bad keyword if
+Line 108: Bad keyword if
+Line 109: Bad keyword if
+Line 112: Bad keyword else
+Line 67: Always without case(x)
+End of file /afs/cs.wisc.edu/u/y/a/yavnilovitch/private/ECE552/project-the-shabbat-shaloms/project/demo2/verilog/tb_regFile_hier.v. Hash = 1040936253

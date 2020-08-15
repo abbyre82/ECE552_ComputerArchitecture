@@ -1,0 +1,6 @@
+complex_demofinal
+/u/s/i/sinclair/courses/cs552/spring2020/handouts/testprograms/public/complex_demofinal/cacheTest.asm FAILED
+/u/s/i/sinclair/courses/cs552/spring2020/handouts/testprograms/public/complex_demofinal/ultimateTest.asm FAILED
+
+perf
+/u/s/i/sinclair/courses/cs552/spring2020/handouts/testprograms/public/perf/bubbleSort.asm FAILED

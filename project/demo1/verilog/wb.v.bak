@@ -1,0 +1,53 @@
+/*
+   CS/ECE 552 Spring '20
+  
+   Filename        : wb.v
+   Description     : This is the module for the overall Write Back stage of the processor.
+*/
+module wb 	(
+					readData,
+					memToReg,
+					memRead,
+					aluResult,
+					nextPC,
+					writeR7,
+					writeData			
+				);
+
+// Passing REG FILE ???
+
+// Inputs:
+//	1. Read Data
+//	2. MemtoReg
+//	3. ALU Result
+
+input [15:0] readData, aluResult, nextPC;
+input memRead, memToReg, writeR7;
+
+// Outputs:
+// 	1. Write Data [15:0]
+
+output [15:0] writeData;
+
+// MUXES
+// Read data vs. ALU result
+// PC+2 vs. writeREG
+
+/*
+	if(memToReg)
+	{
+		if(writeR7)
+		{
+			writeData = nextPC;
+		}
+		else if(memRead)
+		{
+			writeData = readData;
+		}
+		else writeData = alu_result;
+	}
+	else doesn't matter ?
+*/
+assign writeData = memToReg ? (writeR7 ? nextPC : (memRead ? readData : alu_result)) : 16'hx;
+
+endmodule
